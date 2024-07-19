@@ -9,6 +9,7 @@ public class Bed : MonoBehaviour, IInteractable
         UIManager.Instance.TriggerYesNoPrompt("Want to Sleep?", GameManager.Instance.Sleep);
     }
 
+
     public string Text_OnAim() => "Press E to Interact";
     public float GetInteractionTime() => _interactionTime;
 }
