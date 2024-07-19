@@ -11,6 +11,7 @@ public class InteractionBar : MonoBehaviour
 
     private void Start()
     {
+        
         _fillImage.fillAmount = 0f;
         _interactionBar.SetActive(false);
     }
