@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a30c2584c67d34b5eb1736e55588dd4d, type: 3}
+  m_Name: Pumpkin Seeds
+  m_EditorClassIdentifier: 
+  itemType: 0
+  description: Seeds to grow pumpkins
+  thumbnail: {fileID: 21300000, guid: 601842b71378949cbb5e65c34757452f, type: 3}
+  gameModel: {fileID: 7373853233535293571, guid: 184a8659474aa4fcc956df0096976cc4, type: 3}
+  price: 35
+  slotIndex: 0
+  daysToGrow: 5
+  cropToYield: {fileID: 11400000, guid: ee66c74fa2497c24ca71b9e38fd0e991, type: 2}
+  seed: {fileID: 906987165778474707, guid: 43b6ebec94f1b4016ac8629c686c2860, type: 3}
+  seedling: {fileID: 5248271719178292036, guid: 96fd97f869e85405cbca000f88700b3d, type: 3}
+  harvastable: {fileID: 2278033498737950926, guid: bfb9f1d3556157345b998043d2d80f14, type: 3}

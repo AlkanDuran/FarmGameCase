@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9750e06e3fd94d2e8d8068b4f2d34d1, type: 3}
+  m_Name: IronHoe
+  m_EditorClassIdentifier: 
+  itemType: 1
+  description: A tool used for tilling the soil in preparation for planting crops.
+  thumbnail: {fileID: 21300000, guid: e1533488612604025b068cfd3efa3575, type: 3}
+  gameModel: {fileID: 6596819316080501205, guid: 982e84ac88d14419fbc2ff5db1ff304d, type: 3}
+  price: 300
+  slotIndex: 0
+  toolType: 0
+  interactionTime: 0.25
